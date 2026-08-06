@@ -1,6 +1,6 @@
-# 云享免费节点分享 | 导入版
+# Free V2Ray Config
 
-> 这份镜像更强调客户端导入流程，适合想先看怎么用的人。
+> A V2Ray and Xray oriented repository that sends readers to the latest usable article instead of mirroring the raw subscription.
 
 ## 今日获取入口
 
@@ -22,20 +22,20 @@
 https://free.yunxiang.lol/posts/nodes/2026-08-06
 ```
 
-请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。把地址放在正文里，才能同时看到步骤、排错和边界说明。
+请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。把正文作为唯一入口，可以把 V2Ray 导入步骤和更新记录集中管理。
 
 ## 快速入口
 
 - 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-08-06
-- 订阅导入教程：https://free.yunxiang.lol/docs/start/import-subscription
 - 常见问题文档：https://free.yunxiang.lol/docs
+- 订阅导入教程：https://free.yunxiang.lol/docs/start/import-subscription
 - 每日免费节点归档：https://free.yunxiang.lol/nodes
 - RSS 更新源：https://free.yunxiang.lol/rss.xml
 - 稳定付费套餐：https://user.yunxiangpnv.lol/
 
 ## 使用说明
 
-本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。先看导入教程，再回到当天文章复制地址。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
+本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。更适合 v2rayN、v2rayNG 和 Xray 客户端用户，先看文章再导入。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
 
 免费节点适合这些场景：
 
